@@ -38,7 +38,7 @@ Navigating the current page:
     F       open a link in a new tab
     r       reload
     gs      view source
-    i       enter insert mode -- all commands will be ignored until you hit Esc to exit
+    i       enter insert mode -- all commands will be ignored until you hit Esc to exit（插入模式 -- 忽略所有指令，直到按退出键Esc)
     yy      copy the current url to the clipboard
     yf      copy a link url to the clipboard
     gf      cycle forward to the next frame
