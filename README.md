@@ -1,4 +1,4 @@
-# Vimium - The Hacker's Browser
+jjjjj# Vimium - The Hacker's Browser
 
 Vimium is a browser extension that provides keyboard-based navigation and control of the web in the
 spirit of the Vim editor.
@@ -102,6 +102,7 @@ Additional advanced browsing commands:
     zL      scroll all the way right
     v       enter visual mode; use p/P to paste-and-go, use y to yank
     V       enter visual line mode
+    vc      enter caret mode
 
 Vimium supports command repetition so, for example, hitting `5t` will open 5 tabs in rapid
 succession. `<Esc>` (or `<c-[>`) will clear any partial commands in the queue and will also exit
